@@ -1,12 +1,12 @@
 {
-  "name": "electron-react-boilerplate",
-  "version": "4.6.0",
-  "description": "A foundation for scalable desktop apps",
+  "name": "orats-dashboard",
+  "version": "1.0.0",
+  "description": "An all-in-one package for backtesting, scanning, trading, and risk",
   "license": "MIT",
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://github.com/electron-react-boilerplate"
+    "name": "Option Research & Technology Services",
+    "email": "support@orats.com",
+    "url": "https://orats.com"
   },
   "main": "./dist/main/main.js",
   "scripts": {
