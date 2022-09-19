@@ -114,7 +114,9 @@
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@headlessui/react": "^1.7.2",
     "axios": "^0.27.2",
+    "electron-builder-squirrel-windows": "^23.5.1",
     "electron-debug": "^3.2.0",
+    "electron-installer-windows": "^3.0.0",
     "electron-log": "^4.4.8",
     "electron-updater": "^5.2.2",
     "jotai": "^1.8.3",
@@ -241,6 +243,10 @@
       "target": [
         "nsis"
       ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
     },
     "linux": {
       "target": [
